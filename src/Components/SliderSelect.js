@@ -3,6 +3,7 @@ import SliderComponent from "./Common/SliderComponent";
 
 const SliderSelect = ({ data, setData }) => {
   const bank_limit = 300000;
+  // console.log(data);
   return (
     <div>
       <SliderComponent
